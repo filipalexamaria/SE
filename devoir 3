@@ -12,7 +12,7 @@ import java.util.StringTokenizer;import java.util.TreeMap;
  import java.util.logging.Logger;
  import java.util.logging.XMLFormatter;
          
- public class TD3 {
+ public class devoir 3 {
  
  	public static void main(String[] args) throws InterruptedException {
      		
